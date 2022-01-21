@@ -24,25 +24,4 @@
   font-style: inherit;
   text-transform: capitalize;
 }
-
-body {
-  background-color: grey;
-  padding: 0%;
-  margin: 0%;
-}
-
-.header {
-  padding: 2rem;
-  width: 100%;
-  background-color: cadetblue;
-}
-
-.header .header-titulo {
-  width: auto;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  color: darkgreen;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
-/*# sourceMappingURL=estilos.css.map */
+/*# sourceMappingURL=-menu.css.map */
