@@ -1,0 +1,24 @@
+.div-1 {
+  background-color: #734;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.div-2 {
+  background-color: #453;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.div-3 {
+  background-color: #954;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+/*# sourceMappingURL=mixin.css.map */

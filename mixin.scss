@@ -1,0 +1,20 @@
+@mixin Div ($fondo){
+    background-color:$fondo;
+    
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    padding: 10px;
+
+}
+
+.div-1{
+   @include Div(#734);
+}
+.div-2{
+    @include Div(#453);
+
+}
+.div-3{
+    @include Div(#954);
+}
